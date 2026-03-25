@@ -17,7 +17,7 @@ AVENPAD is a compact, custom-designed macropad built for productivity, creativit
 
 ## Hardware Used-
 
-* Seeed Studio XIAO RP2040
+* [Seeed Studio XIAO RP2040](https://wiki.seeedstudio.com/XIAO-RP2040/)
 * 5x Mechanical Switches
 * 1x Rotary Encoder
 * Custom PCB
