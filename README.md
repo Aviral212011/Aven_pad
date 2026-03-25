@@ -35,9 +35,9 @@ This project is a custom-built 5-key macropad with a rotary encoder, powered by 
 
 
 AVENPAD/
-│── firmware/        # Firmware files (KMK / QMK)
+│── firmware/        # Firmware files (KMK)
 │── pcb/             # KiCad design files
-│── case/            # 3D model files (Onshape/STL)
+│── case/            # 3D model files 
 │── images/          # Project images
 │── README.md        # Project documentation
 
