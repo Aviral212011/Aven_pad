@@ -1,66 +1,36 @@
-# Aven_pad- A custom Macropad
-This project is a custom-built 5-key macropad with a rotary encoder, powered by the Seeed Studio XIAO RP2040 microcontroller. It is designed as a compact and programmable input device that can be used for shortcuts, media control, productivity tasks, or creative workflows.
+# AVENPAD – Custom Macropad
+
+AVENPAD is a compact, custom-designed macropad built for productivity, creativity, and everyday convenience. It features a minimal yet powerful layout with 5 mechanical switches and a rotary encoder which is making it perfect for shortcuts and media control .
 
 ---
 
-## 🔧 Features
+##  Features of AVENPAD
+* 5 Programmable Mechanical Switches that can be used to assign any shotcut or custom action to each key .
 
-* 🔘 **5 Programmable Mechanical Switches**
-  Assign macros, shortcuts, or custom actions to each key.
+* Rotary Encoder can be used for volume adjustment , scrolling or any custom function .
+  
+* I used XIAO RP2040 microcontroller which is Compact and powerful microcontroller based on the RP2040 chip.
 
-* 🔄 **Rotary Encoder**
-  Smooth control for volume adjustment, scrolling, zooming, or any custom function.
-
-* ⚡ **Powered by XIAO RP2040**
-  Compact and powerful microcontroller based on the RP2040 chip.
-
-* 🧩 **Custom PCB & Case**
-  Designed using KiCad (PCB) and Onshape (3D case).
-
-* 🎯 **Compact & Portable Design**
-  Small footprint, perfect for desks with limited space.
+* the PCB of AVENPAD is designed in Kicad and the case is designed in onshape .
 
 ---
 
-## 🛠️ Hardware Used
+## Hardware Used-
 
 * Seeed Studio XIAO RP2040
 * 5x Mechanical Switches
 * 1x Rotary Encoder
 * Custom PCB
 * 3D Printed Case
-* USB-C Connectivity
 
 ---
 
+## Why did I make it?
+* I always keep forgetting windows shotcuts and I really needed a quick way to switch between windows without having using the shotcuts that's why i designed the AVENPAD.
 
-AVENPAD/
-│── firmware/        # Firmware files (KMK)
-│── pcb/             # KiCad design files
-│── case/            # 3D model files 
-│── images/          # Project images
-│── README.md        # Project documentation
 
-```
-
-## 🎮 Use Cases
-
-* Video editing shortcuts
-* Coding macros
-* Gaming controls
-* Music/media control
-* Productivity automation
-
----
-
-## 📸 images are provided in images folder in the repositary.
-
----
-
-## ✨ Author
+## Author
 
 **Aviral Sen**
 
----
-
-> AVENPAD is a simple yet powerful tool to enhance your digital workflow.
+> AVENPAD is a simple yet powerful tool to enhance your digital workflow and productivity.
