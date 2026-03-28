@@ -26,6 +26,7 @@ AVENPAD is a compact, custom-designed macropad built for productivity, creativit
 <img width="727" height="505" alt="bottom part of case" src="https://github.com/user-attachments/assets/9e533320-acab-4a04-afb1-9d2743611934" />
 <img width="778" height="780" alt="top of case" src="https://github.com/user-attachments/assets/463973f1-3ba3-44b6-a54f-45d517fa82ad" />
 <img width="782" height="740" alt="top part of case" src="https://github.com/user-attachments/assets/10e1ba08-1ef7-4e43-8670-0e2479c912f7" />
+<img width="1064" height="704" alt="AVENPAD" src="https://github.com/user-attachments/assets/e91505e2-e9a3-4b60-b83d-97aa36c4ab45" />
 
 ---
 ## Hardware Used-
