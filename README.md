@@ -42,6 +42,10 @@ AVENPAD is a compact, custom-designed macropad built for productivity, creativit
 ## Why did I make it?
 * I always keep forgetting windows shotcuts and I really needed a quick way to switch between windows without having using the shotcuts that's why i designed the AVENPAD.
 
+---
+## Onshape link -
+* https://cad.onshape.com/documents/871017228e423d2eaa0219d3/w/cf6216e0fa05433caa6062cb/e/ab9a9642b0b903e0340806be?renderMode=0&uiState=69c7d780b2c31718861df9a4
+---
 
 ## Author
 
